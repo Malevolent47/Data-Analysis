@@ -20,9 +20,10 @@ Key Areas:
 - KPI analysis
 - Interactive dashboard development
 
-Project File: `Blinkit Sales Analysis.pbix`
+Project File: `Blinkit Data Project.pbix`
 
-Dashboard Preview:
+Dashboard Preview:<img width="1532" height="1079" alt="Screenshot 2026-10-08 171147" src="https://github.com/user-attachments/assets/10dc59ba-4587-4de0-b1a8-913ce50aca72" />
+
 
 
 
