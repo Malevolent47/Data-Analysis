@@ -6,6 +6,26 @@ This repository contains projects focused on data cleaning, exploratory data ana
 
  🚀 Projects
 
+1 🛒 Blinkit Sales Analysis Dashboard
+
+Tools: Power BI, Microsoft Excel, Kaggle
+
+Analyzed Blinkit sales data to evaluate sales performance across 8,523 items, 16 product categories, and 3 city tiers. Developed an interactive Power BI dashboard to identify trends across outlet types, outlet sizes, product segments, and location tiers.
+
+Key Areas:
+- Sales performance analysis
+- Product category analysis
+- Outlet performance
+- City tier comparison
+- KPI analysis
+- Interactive dashboard development
+
+Project File: `Blinkit Sales Analysis.pbix`
+
+Dashboard Preview:
+
+
+
 1 🏠 Airbnb Rental Market Analysis
 
 Tools: Tableau, Kaggle
